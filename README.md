@@ -1,4 +1,4 @@
-## 👋🏼 Welcome to my GitHub! 
+# 👋🏼 Welcome to my GitHub! 
 
 👩🏻‍💻 I am a visual journalist specializing in data visualization, web design, graphics, and animation.
 
