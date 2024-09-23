@@ -1,6 +1,6 @@
 # 👋🏼 Welcome to my GitHub!
 
-👩🏻‍💻 I am a visual journalist specializing in data visualization, web design, graphics, and animation.
+👩🏻‍💻 I am a visual journalist specializing in digital & product design, data visualization, graphics, and animation.
 
 📰 I'm currently an [Associate Product Manager](https://www.pbs.org/newshour/author/jenna-cohen) on the digital team at [PBS News](https://www.pbs.org/newshour/). I work on the design and UX of our website and work alongside our editorial staff and engineers to manage updates and strategize future product iterations. 
 
